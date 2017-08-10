@@ -1,7 +1,7 @@
 <?php
 
 /**
- * @author 屈跃顺(quyueshun@baidu.com)
+ * @author 屈跃顺(quyueshun@163.com)
  * @date 2016/07/06 15:30:00
  * @brief 汉语词典（简体中文utf-8）
  */
